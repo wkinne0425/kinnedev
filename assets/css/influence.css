@@ -986,6 +986,7 @@ textarea.form-control {
 }
 .auto-height {
     min-height: 100%;
+    display: none;
 }
 .minheight300px {
     min-height: 300px;
