@@ -14,6 +14,8 @@
 
 /* Selecting text */
 
+.modal-content{padding:35px;}
+
 ::-moz-selection {
     background: #444;
     color: #ffffff;
